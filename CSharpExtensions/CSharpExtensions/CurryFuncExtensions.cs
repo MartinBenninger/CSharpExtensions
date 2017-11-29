@@ -5,7 +5,7 @@
     /// <summary>
     /// Generic curry extension methods for all built in System.Func delegates.
     /// </summary>
-    public static class CurryExtensions
+    public static partial class CurryExtensions
     {
         /// <summary>
         /// Curries the specified function.
