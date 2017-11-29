@@ -5,4 +5,5 @@ Todo:
   - Create a good readme
   - Add uncurry methods
   - Add tests
+  - Create Nuget Package (target multiple frameworks)
   - etc...
