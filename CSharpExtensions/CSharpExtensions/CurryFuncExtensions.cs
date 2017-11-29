@@ -3,7 +3,7 @@
     using System;
 
     /// <summary>
-    /// Generic curry extension methods for all built in System.Func delegates.
+    /// Generic curry extension methods for all built in System.Func and System.Action delegates.
     /// </summary>
     public static partial class CurryExtensions
     {
